@@ -32,7 +32,7 @@ These two scripts invoke the same python code, but the DeepClusterv2 version set
 # Reproducing the paper's results
 
 Since the pretrained models used in the paper are very large in terms of storage space, we provide them separately. They are foud [here](https://drive.google.com/file/d/1xpo4DleWYVoChhggpp9IjVDzrXsHos3K/view?usp=sharing): and need to be extracted in the `models` directory. <br />
-Since obtaining the vectors from the pretrained models requires a cuda-capable GPU, the main results of the paper can be reproduced by using only the vectors provided for convenience (see "Validation and tests using the paleographic vector").
+Since obtaining the vectors from the pretrained models requires a cuda-capable GPU and the Cypro Minoan signs (not included), the main results of the paper can be reproduced by using only the vectors provided for convenience (see "Validation and tests using the paleographic vector").
 
 ## Single sign relabeling
 
