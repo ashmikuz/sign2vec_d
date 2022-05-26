@@ -1,6 +1,6 @@
 # Sign2Vec<sub>d</sub>
 
-This directory contains all the code needed to reproduce the results in the paper "Unsupervised Deep Learning Supports Reclassification of Bronze Age Cypriot Writing System". The Cypro-Minoan dataset is unfortunately unavailable, as it is covered by copyright.
+This directory contains all the code needed to reproduce the results in the paper "Unsupervised Deep Learning Supports Reclassification of Bronze Age Cypriot Writing System". The Cypro-Minoan dataset is unfortunately unavailable, as it is covered by copyright. The code is based on [DeepClusterv2](https://github.com/facebookresearch/swav).
 
 # Requirements
 The following packages were used (we list packages versions as we can't be sure that no incompatibilities were introduced with later versions):
